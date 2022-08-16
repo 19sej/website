@@ -1,0 +1,11 @@
+body{
+    background-color: antiquewhite;
+}
+.area5{
+    display:flex ;
+    justify-content: space-around;
+}
+.area6{
+    display: flex;
+    justify-content: space-around;
+}

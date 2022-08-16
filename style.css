@@ -1,0 +1,99 @@
+
+.products{
+    
+    background-color:rgb(250, 234, 214);
+}
+
+.pdes{
+
+background-color:rgb(250, 234, 214);
+}
+
+.tools
+{ float: right;
+    
+width: 30%;
+display: flex;
+justify-content: space-around;
+
+}
+.name
+{
+    float: left;
+    width: 40%;
+display: flex;
+justify-content: center;
+
+}
+.logo{
+    
+ float:left;
+ width: 28%;
+ display: flex;
+ justify-content: end;
+}
+.about{
+    width:15%;
+    float: left;
+    display: flex;
+    justify-content: space-around;
+}
+.icons{
+    float: right;
+    width:10%;
+    display: flex;
+    justify-content: space-around;
+}
+.products{
+    display: flex;
+    justify-content: space-around;
+}
+.p1
+{
+    
+width: 33%;
+
+float: left;
+display: flex;
+justify-content: center;
+
+}
+
+.p2{width: 33%;
+    
+    float: left;
+display: flex;
+justify-content: center;
+
+
+}
+.p3{width: 33%;
+    
+    float: right;
+    display: flex;
+    justify-content: center;
+}
+.pdes{
+    display: flex;
+    justify-content: space-around;
+}
+.pdes1{
+    width: 33%;
+    float: left;
+    display: flex;
+    justify-content: center;
+
+}
+.pdes2{
+    width: 33%;
+    float: left;
+    display: flex;
+    justify-content: center;
+}
+.pdes3{
+    width: 33%;
+float: right;
+display: flex;
+justify-content: center;
+
+}
